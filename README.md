@@ -1,6 +1,6 @@
 # til
 
-Summary of today's technology learnings.
+Summary of technology learnings.
 
 ## Categories
 
