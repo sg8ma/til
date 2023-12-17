@@ -1,6 +1,6 @@
-# TIL (Today I Learned)
+# til
 
-A concise summary of the little things I learn every day in various languages and technologies.
+Summary of today's technology learnings.
 
 ## Categories
 
